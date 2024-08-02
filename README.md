@@ -45,6 +45,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+server run at `localhost:3030/api`
+
 ## Test
 
 ```bash

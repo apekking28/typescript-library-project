@@ -71,3 +71,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Algoritma Test
+<a href="https://github.com/apekking28/typescript-library-project/tree/main/algortima/src" target="blank">Algoritma Test</a>
